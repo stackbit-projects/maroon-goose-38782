@@ -22,7 +22,10 @@
   image: images/project.jpg
 - name: Datactive Loyalty
   url: lorem-ipsum
-  description: While working in Amilon I worked on the development of in-house CRM product
+  description: >-
+    While working in Amilon I worked on the development of a new in-house CRM
+    product. The cross-functional project I managed developed a loyalty engine
+    that enabled marketers to 
   status: in progress
   tags: []
   icon: github
