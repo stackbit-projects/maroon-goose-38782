@@ -6,7 +6,7 @@
   image: images/profile.jpg
   location: 'Milan, Italy'
   relocation: true
-  company: Atomic Studio
+  company: Nestlé
   for_hire: true
   focus: Learning Gatsby
   focus_url: 'https://gatsbyjs.org'
