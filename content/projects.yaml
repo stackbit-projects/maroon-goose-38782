@@ -22,9 +22,7 @@
   image: images/project.jpg
 - name: Datactive Loyalty
   url: lorem-ipsum
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
+  description: Whi
   status: in progress
   tags: []
   icon: github
