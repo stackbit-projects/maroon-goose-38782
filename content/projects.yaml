@@ -27,8 +27,13 @@
     product. 
 
     The cross-functional project I managed developed a loyalty engine that
-    enabled marketers to: design custom CRM programs, integrate online/offline
-    data sources and manage the earn&burn 
+    enabled marketers to: 
+
+    - design custom CRM programs,
+
+    - integrate multiple online/offline data sources 
+
+    - manage the earn & burn mechanics
   status: in progress
   tags: []
   icon: github
