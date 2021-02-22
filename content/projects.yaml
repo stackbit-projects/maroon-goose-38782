@@ -35,7 +35,18 @@
 
     - manage the earn & burn mechanics
   status: live
-  tags: []
+  tags:
+    - '0': l
+      '1': o
+      '2': r
+      '3': e
+      '4': m
+      '5': '-'
+      '6': i
+      '7': p
+      '8': s
+      '9': u
+      '10': m
   icon: github
 - name: lorem-ipsum
   url: lorem-ipsum
