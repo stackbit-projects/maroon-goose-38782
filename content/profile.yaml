@@ -27,7 +27,7 @@
   tools:
     - JIRA
     - Salesforce
-    - Gatsby
+    - SAP CDC
   budget:
     currency: $
     min: 5
