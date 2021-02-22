@@ -48,10 +48,3 @@
       '9': u
       '10': m
   icon: website
-- name: lorem-ipsum
-  description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua.
-  status: in progress
-  tags: []
-  icon: github
