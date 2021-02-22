@@ -5,7 +5,7 @@
   profession: Digital Project Manger
   image: images/profile.jpg
   location: 'Milan, Italy'
-  relocation: true
+  relocation: false
   company: Nestlé
   for_hire: true
   focus: Learning Gatsby
