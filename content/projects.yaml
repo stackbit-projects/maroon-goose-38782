@@ -29,17 +29,9 @@
 - name: Datactive Loyalty
   url: lorem-ipsum
   description: >-
-    While working in Amilon I worked on the development of a new in-house
-    product. 
-
-    The cross-functional project I managed developed a loyalty engine that
-    enabled marketers to: 
-
-    - design custom CRM programs,
-
-    - integrate multiple online/offline data sources 
-
-    - manage the earn & burn mechanics
+    A plug and play solution that enables marketer to design custom CRM
+    programs, integrate multiple online/offline data sources and manage the
+    earn/burn mechanics holistically
   status: live
   tags:
     - '0': l
@@ -54,3 +46,4 @@
       '9': u
       '10': m
   icon: website
+  image: images/Photo-by-Sigmund-on-Unsplash.jpg
